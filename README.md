@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nandhitha0
+- 👀 I’m interested in Programming...
+- 🌱 I’m currently learning Data Stuctures and Algorithms
